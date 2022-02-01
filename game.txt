@@ -1,0 +1,23 @@
+----PLAYERS---- 
+Adrien
+0
+2
+GSbbB
+Empty
+Empty
+Empty
+
+Hamidou
+0
+2
+gGCBB
+Empty
+Empty
+Empty
+
+----DECK----
+SCSBSGgCsCbSBCGRGSCsCBRBRbCSsBbBbbCsSgGBsGbSBCssGRGsBGBCGgSBBRsRBGCCRSsCCBSggCBRCsGbSGsSSBCBSb
+----DISCARD PILE----
+The discard pile is empty.
+----TRADE AREA----
+The trade area is empty
